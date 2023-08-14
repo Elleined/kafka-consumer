@@ -105,13 +105,14 @@ private Datatype consumerFieldName;
 # What is @KafkaListener
 - Used to easily subscribe to kafka topic created by producer. Method annotated with this will automatically executed when producer create a event or send a message/data to specified topic.
 
-# [kafka-consumer](https://github.com/Elleined/kafka-consumer)
- 
+# [kafka-producer](https://github.com/Elleined/kafka-producer)
+
 # Usefull links
- - installation https://youtu.be/EUzH9khPYgs
+ - Installation https://youtu.be/EUzH9khPYgs
  - WMIC not recognize https://www.itechtics.com/wmic-is-not-recognized-as-an-internal-or-external-command/?expand_article=1
  - Kafka server not starting and not returning anything https://stackoverflow.com/questions/45524750/kafka-server-not-returning-anything
- - Serialization and Deserializatiom issue https://stackoverflow.com/questions/70206790/how-to-map-types-using-properties-file-in-kafka
+ - Serialization and Deserialization issue https://stackoverflow.com/questions/70206790/how-to-map-types-using-properties-file-in-kafka
+
 # Other github repo reference credits to
 - https://github.com/RameshMF/springboot-kafka-course
 # Yt videos
